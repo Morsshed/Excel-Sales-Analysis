@@ -25,3 +25,14 @@ Excel Functions (Basic to Advanced)
 
 ## Expense Report
 ![Excel IFS Function Example](https://raw.githubusercontent.com/Morsshed/Excel-Sales-Analysis/main/ExcelImages/Database%20Ifs.png)
+
+### Excel Functions Applied: 
+
+###### Count the # of logged Expenses
+                           COUNTIF(C6:C50,"Technical Support")
+###### Total Expenses for Office Supplies
+                          SUMIF(C6:C50,G14,D6:D50)
+###### Average Cost per Meal Expense
+                          AVERAGEIF(C6:C50,G18,D6:D50)
+###### Total  for Meals in Midtown
+                          SUMIFS(D6:D50,B6:B50,G22,C6:C50,H22)
