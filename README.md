@@ -21,3 +21,5 @@ Excel Functions (Basic to Advanced)
                           IF(H5="Goal Met",F5*$I$13,0)
 ###### Department Bonus of 10,000
                           IF(AND(F12>M12, F13>M14),"10K Bonus Team Bonus", "No Bonus")
+
+![Excel IFS Function Example](https://raw.githubusercontent.com/Morsshed/Excel-Sales-Analysis/main/ExcelImages/Database%20Ifs.png)
