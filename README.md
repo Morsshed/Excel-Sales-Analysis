@@ -2,7 +2,7 @@
 Excel Functions (Basic to Advanced)
 
 
-## Sales Target
+## Sales Target Vs Bonus
 
 ![Excel IF Function Example](https://raw.githubusercontent.com/Morsshed/Excel-Sales-Analysis/main/ExcelImages/IF.png)
 
