@@ -2,10 +2,11 @@
 Excel Functions (Basic to Advanced)
 
 
+## Sales Target
 
 ![Excel IF Function Example](https://raw.githubusercontent.com/Morsshed/Excel-Sales-Analysis/main/ExcelImages/IF.png)
 
-## Excel Functions Applied: 
+### Excel Functions Applied: 
 
 ###### Total sales
                           SUM(F5:F10)
@@ -22,4 +23,5 @@ Excel Functions (Basic to Advanced)
 ###### Department Bonus of 10,000
                           IF(AND(F12>M12, F13>M14),"10K Bonus Team Bonus", "No Bonus")
 
+## Expense Report
 ![Excel IFS Function Example](https://raw.githubusercontent.com/Morsshed/Excel-Sales-Analysis/main/ExcelImages/Database%20Ifs.png)
