@@ -36,3 +36,8 @@ Excel Functions (Basic to Advanced)
                           AVERAGEIF(C6:C50,G18,D6:D50)
 ###### Total  for Meals in Midtown
                           SUMIFS(D6:D50,B6:B50,G22,C6:C50,H22)
+
+
+## Emplyee Check-in
+![Excel XLOOKUP Function Example](https://raw.githubusercontent.com/Morsshed/Excel-Sales-Analysis/main/ExcelImages/XLookUp.png)
+                          
