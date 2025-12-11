@@ -67,5 +67,28 @@ Excel Functions (Basic to Advanced)
 
 Pivot table allows to group, filter, and aggregate data (such as total sales, counts, or averages) using a simple drag-and-drop interface. Pivot Tables help reveal patterns, trends, and insights without writing formulas—making data analysis fast and interactive.
 
+## Combing Sales Table
+![Excel Text Function Example](https://raw.githubusercontent.com/Morsshed/Excel-Sales-Analysis/main/ExcelImages/Text%20Function.png)
+
+### Excel Functions Applied:
+
+###### Full Name
+                       CONCATENATE(B2, " ",C2)
+###### Month
+                       MONTH(G2)
+###### Month Name
+                       TEXT(G2,"mmmm")
+###### Year
+                       YEAR(G2)
+###### Week Number
+                       WEEKNUM(G2)
+###### Weekday from Sunday
+                       WEEKDAY(G2)
+###### Weekday from Monday
+                       WEEKDAY(G2,2)
+###### Day Name
+                       TEXT(G2,"dddd")
+
+
 
                           
