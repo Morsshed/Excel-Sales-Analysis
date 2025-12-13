@@ -1,4 +1,4 @@
-# Sales-Analysis
+# Sales-Target-Vs-Cost-Analysis
 Excel Functions (Basic to Advanced)
 
 
